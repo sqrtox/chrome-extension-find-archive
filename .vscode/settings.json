@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "esbuild",
+    "linebreak",
+    "outdir",
+    "sqrtox"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}

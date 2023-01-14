@@ -1,0 +1,16 @@
+{
+  "background": {
+    "service_worker": "background.js"
+  },
+  "description": "This is a Google Chrome browser extension that searches the archive for past caches of missing pages.",
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "manifest_version": 3,
+  "name": "Find Archive",
+  "permissions": [
+    "webRequest",
+    "scripting"
+  ],
+  "version": "1.0.0"
+}
